@@ -1,13 +1,13 @@
 {
-  "name": "gabordemooij/redbean",
-  "description": "RedBeanPHP ORM",
+  "name": "gabordemooij/redbean-tkxel",
+  "description": "RedBeanPHP ORM - PHP 8 Support",
   "keywords": ["orm"],
   "homepage": "https://redbeanphp.com/",
   "license": "BSD-3-Clause",
   "authors": [
     {
-      "name": "Gabor de Mooij",
-      "email": "gabor@redbeanphp.com",
+      "name": "Mohsin Tkxel",
+      "email": "mohsin.iftikhar@tkxel.com",
       "homepage": "https://redbeanphp.com"
     }
   ],
